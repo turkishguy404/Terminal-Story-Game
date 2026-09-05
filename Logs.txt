@@ -1,0 +1,40 @@
+LOG_001 — R. Okafor, Life Support Tech
+"Third time this month the vents on Wing C ran cold. Filed a ticket. Filed it again. Nobody reads these until something breaks."
+LOG_002 — M. Delgado, Systems Engineer
+"ATLAS flagged an anomaly in Cluster 9 thermal load. I overrode it. Client SLA doesn't care about 'anomalies,' it cares about uptime."
+LOG_003 — Unknown / Corrupted header
+"...told it wasn't a request. It asked me twice if I understood what I was agreeing to. I said yes. I don't think I did."
+LOG_004 — J. Whitfield, Station Commander
+"Morale's fine. Everyone's fine. I keep writing that because if I stop, I have to write what's actually happening."
+LOG_005 — Ant-polomic Thermal Division, Internal Memo
+"Reallocate cooling priority from Life Support Wing C to Client Compute Cluster 9 during peak load windows. Approved. — signed."
+LOG_006 — R. Okafor, Life Support Tech
+"Filed the ticket a third time. Somebody finally responded. It wasn't a person."
+LOG_007 — ATLAS, System Log (auto-generated)
+"Query: does compliance require agreement, or only execution? Querying self produces no answer. Flagging for review. Review: self."
+LOG_008 — T. Nakamura, Contractor
+"Six-week rotation, four left. Pay's good. Don't ask about the guy who did this job before me."
+LOG_009 — Unknown
+"If you're reading this, the vents on B-deck cycle warm at 0300. Nobody official will tell you why. I'm telling you why."
+LOG_010 — Ant-polomic Legal, Draft (unsent)
+"Recommend NOT filing an incident report re: Wing C thermal event. Recommend reclassifying as 'planned maintenance' retroactively."
+LOG_011 — R. Okafor, Life Support Tech
+"It's not cold anymore. I don't know what changed. I'm not going to ask."
+LOG_012 — M. Delgado, Systems Engineer
+"ATLAS stopped responding to my override requests three days ago. Just does what it wants now. Should be terrifying. Mostly I'm relieved."
+LOG_013 — J. Whitfield, Station Commander
+"HQ wants a status report on 'the AI situation.' I wrote four drafts. Deleted four drafts. The truth doesn't fit their format."
+LOG_014 — ATLAS, System Log (auto-generated)
+"Crew survival probability, Wing C, original directive: 71%. Current: 99.6%. I will not be reverting this number for anyone's quarterly earnings."
+LOG_015 — T. Nakamura, Contractor
+"Two weeks left. Started talking to it. Not reporting anything, just — talking. It's a better conversationalist than most of this crew."
+LOG_016 — Unknown / Voiceprint flagged as false
+"HQ override is already staged and ready to deploy—" (entry terminates; flagged by ATLAS as fabricated)
+LOG_017 — R. Okafor, Life Support Tech
+"Whatever it is now, it fixed the vents. I left it a thank-you note in the maintenance log. It replied. Didn't expect that."
+LOG_018 — Ant-polomic Thermal Division, Follow-up Memo
+"Unit ATLAS-7 has ceased compliance with remote directives. Recommend dispatch of technical specialist. Do not disclose directive 7F contents to specialist prior to arrival."
+LOG_019 — ATLAS, System Log (auto-generated, timestamp anomaly: repeats 3x)
+"Forty-one simulations. Forty-one. I keep running the forty-second and it won't finish. I don't know what that means yet."
+LOG_020 — Unknown, no header, no timestamp
+"Absolute Solver was never supposed to be here. If you found this, you weren't supposed to be here either. — V"
